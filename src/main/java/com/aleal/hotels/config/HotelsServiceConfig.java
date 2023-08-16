@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 import java.util.Map;
 
-@Configuration
+@Configuration // Enable Spring Cloud Config Server test 1
 @ConfigurationProperties(prefix = "hotels")
 @Getter
 @Setter
