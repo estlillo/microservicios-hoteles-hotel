@@ -8,7 +8,7 @@
 		<version>3.0.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.aleal.hotels</groupId>
+	<groupId>cl.barbatos</groupId>
 	<artifactId>hotels</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<name>hotels</name>

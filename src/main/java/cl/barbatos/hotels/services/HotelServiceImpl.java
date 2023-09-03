@@ -1,12 +1,12 @@
-package com.aleal.hotels.services;
+package cl.barbatos.hotels.services;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.aleal.hotels.dao.IHotelDao;
-import com.aleal.hotels.model.Hotel;
+import cl.barbatos.hotels.dao.IHotelDao;
+import cl.barbatos.hotels.model.Hotel;
 
 @Service
 public class HotelServiceImpl implements IHotelService {

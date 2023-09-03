@@ -1,4 +1,4 @@
-package com.aleal.hotels.model;
+package cl.barbatos.hotels.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

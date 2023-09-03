@@ -1,8 +1,8 @@
-package com.aleal.hotels.services;
+package cl.barbatos.hotels.services;
 
 import java.util.List;
 
-import com.aleal.hotels.model.Hotel;
+import cl.barbatos.hotels.model.Hotel;
 
 public interface IHotelService {
 	

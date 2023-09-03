@@ -1,4 +1,4 @@
-package com.aleal.hotels.model;
+package cl.barbatos.hotels.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.aleal.hotels;
+package cl.barbatos.hotels;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.aleal.hotels.hotels;
+package cl.barbatos.hotels.hotels;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
