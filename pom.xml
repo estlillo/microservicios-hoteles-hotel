@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.aleal.hotels</groupId>
 	<artifactId>hotels</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>hotels</name>
 	<description>Microservices for Hotels</description>
 	<properties>
@@ -74,7 +74,7 @@
 						</exclude>
 					</excludes>
 					<image>
-						<name>b4rbatos/${project.artifactId}</name>
+						<name>b4rbatos/${project.artifactId}:${project.version}</name>
 					</image>
 				</configuration>
 			</plugin>
