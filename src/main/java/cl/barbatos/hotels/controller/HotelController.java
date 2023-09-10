@@ -36,6 +36,11 @@ public class HotelController {
 		return this.service.searchHotelRoomsById(id);
 	}
 
+	@GetMapping("hotels/feign/{id}")
+	public HotelRooms searchHotelRoomsByIdFeing(@PathVariable Long id) {
+		return this.service.searchHotelRoomsByIdFeing(id);
+	}
+
 	@GetMapping("hotels/properties")
 	public String getProperties() throws JsonProcessingException{
 

@@ -11,4 +11,6 @@ public interface IHotelService {
 
 	HotelRooms searchHotelRoomsById(Long id);
 
+
+	HotelRooms searchHotelRoomsByIdFeing(Long id);
 }
